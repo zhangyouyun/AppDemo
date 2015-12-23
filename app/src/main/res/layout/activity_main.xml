@@ -12,7 +12,7 @@
         android:drawableLeft="@mipmap/back"
         android:padding="10dp"
         android:background="#8dc44b"
-        android:text="  登录"
+        android:text="  sb"
         android:textColor="@drawable/back"
         android:textSize="20sp"
         android:gravity="center_vertical"
