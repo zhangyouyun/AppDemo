@@ -230,7 +230,7 @@
                 android:layout_marginTop="15dp"
                 android:background="@drawable/selector2"
                 android:enabled="false"
-                android:text="注册"
+                android:text="注册?"
                 android:textColor="#ffffff"
                 android:textSize="25sp"/>
 
